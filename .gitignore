@@ -1,0 +1,10 @@
+/build
+
+/translate.spec
+__pycache__
+
+/py-to-exe.bat
+
+/test.json
+/icon.ico
+/test.json
